@@ -6,9 +6,13 @@
 # Objetivos
 
 Desarrollar un sistema de información de inventario de las herramientas y elementos, asociados a el curso de la media fortalecida en el área de ingeniería del colegio distrital Charry, como estrategia para el mejoramiento de procesos y respuesta  de inventarios.
+
 ## Especifico
+
 ⮚Desarrollar un sistema de inventario en el cual la persona encargada posea un usuario de acceso al sistema para que pueda modificar cualquier herramienta del software.
+
 ⮚Implementar un sistema de inventario en el cual la persona encargada tenga la posibilidad de registrar cualquier tipo de herramienta, en este sistema se solicitara el tipo de elemento, el nombre y el estado.
+
 ⮚Elaborar un sistema de inventario en el cual tengamos la posibilidad de reportar cualquier elemento en malas condiciones, para mejorar la información del estado de las herramientas.
 
 ## Planteamiento del problema
